@@ -4,7 +4,7 @@ firsthalf= i[:3] #listeyi ilk yarısından ayırıp ayrı liste yaptım
 secondhalf= i[3:] #listeyi ikinci yarısından ayırıp    "      "
 secondhalf.extend(firsthalf) #ikinci yarısına ilk yarısını katarak bir bütün liste oluşturdum.
 print(secondhalf)
-#output [3, 4, 5, 0, 1, 2] şeklindedir.
+
 
 #Question 2
 num = int(input("Enter a single digit integer number: ")) #kullanıcıdan tek basamaklı bir sayı girmesini istedim.
