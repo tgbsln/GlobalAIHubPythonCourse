@@ -1,7 +1,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.2021  
-  **Name:** Tugba  
+  **Name:** Tuğba  
 **Surname:** Aslan  
 **Email:** tugbasln324@hotmail.com  
 
