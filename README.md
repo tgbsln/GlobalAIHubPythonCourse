@@ -1,4 +1,3 @@
-# GAIH Student Repo Example
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.1997  
